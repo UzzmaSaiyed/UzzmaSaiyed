@@ -2,4 +2,3 @@
   <img width="390" src="https://streak-stats.demolab.com/?user=UzzmaSaiyed&count_private=true&theme=highcontrast&border_radius=10" alt="GitHub Streak Stats"/>
 </div>
 
-![Contribution Snake Animation](https://github.com/UzzmaSaiyed/blob/output/github-contribution-grid-snake.svg)
