@@ -9,7 +9,7 @@
 
   ### 🏆 My Top Languages
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=highcontrast&border_radius=10&hide=c++,cmake)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=highcontrast&border_radius=10&hide=c++,cmake,php)
   
 </div>
 
