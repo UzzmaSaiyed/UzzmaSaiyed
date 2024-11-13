@@ -13,13 +13,3 @@
   
 </div>
 
-### 🚀 About Me
-
-- 💻 Android Developer specializing in calculator, stopwatch, to-do list, and QR scanner apps
-- 📚 Learning more about AI-based legal software and real-time monitoring solutions
-- 🌱 Currently working with Flutter, Angular, and Spring Boot for full-stack development
-- ⚙️ GitHub Contributions: `protobuf-c`, PostGIS setup with PostgreSQL, Homebrew for package management on macOS
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/uzzmasaiyed)
