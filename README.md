@@ -3,12 +3,10 @@
 
   ### 👋 Hi there, I’m Uzzma Saiyed!
 
-  ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=UzzmaSaiyed&count_private=true&theme=highcontrast&border_radius=10)
+  ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=UzzmaSaiyed&count_private=true&theme=dracula&border_radius=10)
 
   <br>
   
-  ### 🗂️ Languages I Use
-
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=react&border_radius=10&hide_progress=true&langs_count=15&hide=cmake,Blade,Ruby,Kotlin,Objective-c)
 
 </div>
