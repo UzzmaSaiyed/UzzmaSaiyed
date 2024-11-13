@@ -5,11 +5,11 @@
 
   ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=UzzmaSaiyed&count_private=true&theme=highcontrast&border_radius=10)
 
-  <br><br>
+  <br>
 
   ### 🏆 My Top Languages
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=highcontrast&border_radius=10&hide=HTML,CSS)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=highcontrast&border_radius=10&hide=c++,cmake)
   
 </div>
 
