@@ -9,7 +9,7 @@
   
   ### 🗂️ Languages I Use
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=highcontrast&border_radius=10&hide_progress=true&langs_count=15&hide=cmake,Blade,Ruby,Kotlin,Objective-c)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=react&border_radius=10&hide_progress=true&langs_count=15&hide=cmake,Blade,Ruby,Kotlin,Objective-c)
 
 </div>
 
