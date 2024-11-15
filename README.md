@@ -9,5 +9,5 @@
   
   <br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage" alt="Trophy" align="center"/>
 </div>
