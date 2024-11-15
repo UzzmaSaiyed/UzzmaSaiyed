@@ -7,10 +7,7 @@
   <br>
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=tokyonight&border_radius=10&hide_progress=true&langs_count=15&hide=cmake,Blade,Ruby,Kotlin,Objective-c)
-
-  <br>
-
- ![Trophy](https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage)
+![Trophy](https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage)
 
 </div>
 
