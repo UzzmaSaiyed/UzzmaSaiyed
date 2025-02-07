@@ -5,13 +5,9 @@
   
   <br><br>
 
-  <table align="center" border=0>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage,Repositories,Commits" alt="Trophy"/>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&margin-w=15&column=3&title=MultiLanguage,Repositories,Commits" alt="Trophy"/>
+  </p>
 
   <br>
 
