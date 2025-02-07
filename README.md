@@ -3,6 +3,7 @@
 
   ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=UzzmaSaiyed&count_private=true&theme=radical&border_radius=5)
   <br>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UzzmaSaiyed)<br>
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=tokyonight&border_radius=10&hide_progress=true&langs_count=15&hide=cmake,Blade,Ruby,Kotlin,Objective-c)
   
