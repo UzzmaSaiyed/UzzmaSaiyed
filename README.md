@@ -3,14 +3,13 @@
 
   <img src="https://streak-stats.demolab.com/?user=UzzmaSaiyed&count_private=true&theme=radical&border_radius=5" alt="GitHub Streak Stats"/>
   
-  <br>
+  <br><br>
 
-  <!-- 🏆 Trophy Section (Properly Centered) -->
-  <p align="center">
+  <!-- 🏆 Trophy Section with Flexbox -->
+  <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage,Repositories,Commits" alt="Trophy"/>
-  </p>
-  
+  </div>
+
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=tokyonight&border_radius=10&hide_progress=true&langs_count=8&hide=cmake,Blade,Ruby,Kotlin,Objective-c" alt="Top Languages"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=tokyonight&border_radius=10&hide_progress=true&langs_count=8&hide=cmake,Blade,Ruby,Kotlin,Objective-c" alt
