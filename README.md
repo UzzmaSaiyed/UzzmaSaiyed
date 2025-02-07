@@ -5,11 +5,16 @@
   
   <br><br>
 
-  <!-- 🏆 Trophy Section with Flexbox -->
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage,Repositories,Commits" alt="Trophy"/>
-  </div>
+  <!-- 🏆 Trophy Section (Table-Based Centering) -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage,Repositories,Commits" alt="Trophy"/>
+      </td>
+    </tr>
+  </table>
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=tokyonight&border_radius=10&hide_progress=true&langs_count=8&hide=cmake,Blade,Ruby,Kotlin,Objective-c" alt
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=tokyonight&border_radius=10&hide_progress=true&langs_count=8&hide=cmake,Blade,Ruby,Kotlin,Objective-c" alt="Top Languages"/>
+</div>
