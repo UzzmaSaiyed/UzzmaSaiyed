@@ -9,7 +9,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&margin-w=15&column=3&title=MultiLanguage,Repositories,Commits" alt="Trophy"/>
   </p>
 
-  <br>
+  <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=tokyonight&border_radius=10&hide_progress=true&langs_count=8&hide=cmake,Blade,Ruby,Kotlin,Objective-c" alt="Top Languages"/>
 </div>
