@@ -6,7 +6,6 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzzmaSaiyed&layout=compact&theme=tokyonight&border_radius=10&hide_progress=true&langs_count=15&hide=cmake,Blade,Ruby,Kotlin,Objective-c)
   
-<br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage" alt="Trophy" align="center"/>
+  <br>
+<img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula" alt="Trophy" align="center"/>
 </div>
