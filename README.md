@@ -5,8 +5,7 @@
   
   <br><br>
 
-  <!-- 🏆 Trophy Section (Table-Based Centering) -->
-  <table align="center">
+  <table align="center" border=0>
     <tr>
       <td align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage,Repositories,Commits" alt="Trophy"/>
