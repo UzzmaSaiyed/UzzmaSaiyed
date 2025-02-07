@@ -3,11 +3,12 @@
 
   <img src="https://streak-stats.demolab.com/?user=UzzmaSaiyed&count_private=true&theme=radical&border_radius=5" alt="GitHub Streak Stats"/>
   
-  <br><br>
+  <br>
 
-  <div align="center">
+  <!-- 🏆 Trophy Section (Properly Centered) -->
+  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=UzzmaSaiyed&theme=dracula&title=MultiLanguage,Repositories,Commits" alt="Trophy"/>
-  </div>
+  </p>
   
   <br>
 
