@@ -2,8 +2,7 @@
   <h3>👋 Hi there, I’m Uzzma Saiyed!</h3>
 
   <img src="https://github-readme-streak-stats1-cyan.vercel.app/?user=UzzmaSaiyed&count_private=true&theme=radical&border_radius=5" alt="GitHub Streak Stats"/>
- <!-- gitreadme-4974aub6s-uzzmasaiyeds-projects.vercel.app
-  gitreadme-seven.vercel.app
+ <!-- 
   streak-stats.demolab.com -->
 
   
