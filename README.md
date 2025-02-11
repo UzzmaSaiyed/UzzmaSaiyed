@@ -1,7 +1,7 @@
 <div align="center" style="margin: 20px 0;">
   <h3>👋 Hi there, I’m Uzzma Saiyed!</h3>
 
-  <img src="https://gitreadme-seven.vercel.app/?user=UzzmaSaiyed&count_private=true&theme=radical&border_radius=5" alt="GitHub Streak Stats"/>
+  <img src="https://gitreadme-4974aub6s-uzzmasaiyeds-projects.vercel.app/?user=UzzmaSaiyed&count_private=true&theme=radical&border_radius=5" alt="GitHub Streak Stats"/>
  <!-- gitreadme-4974aub6s-uzzmasaiyeds-projects.vercel.app
   gitreadme-seven.vercel.app
   streak-stats.demolab.com -->
