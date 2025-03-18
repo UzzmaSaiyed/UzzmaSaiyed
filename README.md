@@ -1,5 +1,5 @@
 <div align="center" style="margin: 20px 0;">
-  <h3>👋 Hi there, I’m Uzzma Saiyed!</h3>
+  <h3>👋 Hi there, I’m Uzzma Saiyed! 👩‍💻</h3>
 
   <img src="https://github-readme-streak-stats1-cyan.vercel.app/?user=UzzmaSaiyed&count_private=true&theme=radical&border_radius=5" alt="GitHub Streak Stats"/>
  <!-- 
